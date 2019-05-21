@@ -2,7 +2,7 @@
 
 ## Instructions
 
-1. Using this existing repo, bootstrapped with `create-react-app`, start the dev server with `npm run start`.
+1. Using this existing repo, bootstrapped with `create-react-app`, install dependencies with `npm i` and start the dev server with `npm run start`.
 2. Fetch data from this open source JSON file (based on the PokemonGO game): https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json (JavaScript's `fetch` or NPM's `axios` is suggested for the HTTP request)
 3. Display the list of Pokemon however you like, making sure to show their “name,” “num,” “type,” and “weaknesses.”
 4. Make this list searchable via a search box. (External NPM libraries for search are equally as good to use, here, as custom search implementations. Determine what works best for you.)
